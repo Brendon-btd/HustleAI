@@ -1,6 +1,6 @@
 # Project README
 
-This project was started yesterday, and the images included in this repository serve as proof of our progress from day one. We attempted to deploy the project on GitHub, but the platform required a paid upgrade for the necessary deployment features, which prevented us from proceeding with deployment there.
+This project was started yesterday, and the images included in this repository serve as proof of our progress from day one. We attempted to deploy the project on GitHub, but the platform required a paid upgrade for the necessary deployment features, which prevented us from proceeding with deployment there.Base44 uses an integrated, automatically managed database. While it handles database setup internally and generates the necessary tables, users can also connect external databases like Supabase for more control. It uses a combination of different tech stacks, including MongoDB for its database and Render for hosting, while Supabase is used for backend services like databases and authentication in the applications it generates
 
 ## Overview
 
